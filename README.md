@@ -3,7 +3,8 @@
 ## Dependencies
 
 There are 2 requirements.txt, one for Ubuntu and another for Windows.
-Use as follow: pip intall -r requirements.txt
+
+Use as follows: `pip intall -r requirements.txt`
 
 ## Pretrained weights
 
